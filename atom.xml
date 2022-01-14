@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>庭草无人随意绿</title>
+  <icon>http://champhywho.github.io/icon.png</icon>
+  
+  <link href="http://champhywho.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://champhywho.github.io/"/>
+  <updated>2022-01-10T12:32:19.994Z</updated>
+  <id>http://champhywho.github.io/</id>
+  
+  <author>
+    <name>Champhy</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每周通讯 2022 Jan.3 - Jan.9</title>
+    <link href="http://champhywho.github.io/4e368c8f.html"/>
+    <id>http://champhywho.github.io/4e368c8f.html</id>
+    <published>2022-01-10T07:43:35.947Z</published>
+    <updated>2022-01-10T12:32:19.994Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;jan3&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#jan3&quot;&gt;&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>每周通讯 2021 Dec.27 - 2022 Jan.2</title>
+    <link href="http://champhywho.github.io/bc4579eb.html"/>
+    <id>http://champhywho.github.io/bc4579eb.html</id>
+    <published>2022-01-03T10:17:17.366Z</published>
+    <updated>2022-01-03T11:05:21.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;dec27&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#dec27&quot;&gt;&lt;/a&gt; Dec.27&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;notion的外链不靠谱，以后从notion跑路的时候不好转移啊，同步块也不好用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://champhywho.github.io/4a17b156.html"/>
+    <id>http://champhywho.github.io/4a17b156.html</id>
+    <published>2021-12-29T13:10:53.000Z</published>
+    <updated>2022-01-01T07:58:46.162Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;等我的2021年度报告吧~&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
